@@ -98,7 +98,7 @@ pip install numpy scikit-learn matplotlib
 
 ## How to Run
 
-1. Run the Python script:
+Run the Python script:
    ```bash
    python main.py
    ```
