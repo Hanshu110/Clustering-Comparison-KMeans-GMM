@@ -73,11 +73,11 @@ The dataset contains 30 samples, with 3 features each:
 The clusters from K-Means and GMM are visualized using PCA for dimensionality reduction. The plots below show how each algorithm groups the data in 2D space:
 
 - **K-Means Clustering**: 
-  ![K-Means Visualization]![image](https://github.com/user-attachments/assets/fcc1044f-5440-4f81-8543-d142c84f9653)
+  ![image](https://github.com/user-attachments/assets/fcc1044f-5440-4f81-8543-d142c84f9653)
 
   
 - **GMM Clustering**: 
-  ![GMM Visualization]![image](https://github.com/user-attachments/assets/3821e719-2496-4fbd-85fd-67df0b621610)
+  ![image](https://github.com/user-attachments/assets/3821e719-2496-4fbd-85fd-67df0b621610)
 
 
 ## Conclusion
